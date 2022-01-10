@@ -19,3 +19,12 @@ td{
     border: 2px solid skyblue;
     padding: 10px;
 }
+.fab{
+    color:red;
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.fa-facebook-square{
+    color: rgba(27, 27, 196, 0.856);
+}
